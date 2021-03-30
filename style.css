@@ -1,0 +1,263 @@
+*{
+    font-family: 'Roboto Condensed', sans-serif;
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.row{
+    margin-bottom: 20px;
+}
+.top{
+    background-color: rgb(51,51,51);
+    padding-left: 150px !important;
+    padding: 3px;
+}
+.a{
+    color: rgb(223, 213, 213);
+    font-size: 12px ;
+    border-left: 1px solid rgb(171,171,171);
+}
+.fa-phone, .fa-envelope{
+    margin-right: 10px;
+}
+.logo{
+   padding-left: 120px !important;
+
+}
+.bar{
+    padding: 20px;
+    padding-right: 130px;
+}
+.bar li a{
+    color: rgb(34, 33, 33) ;
+}
+.bar .nav-item .nav-link{
+    transition: 0.5s;
+}
+.bar .nav-item .nav-link:hover{
+    color: rgb(97, 156, 212);
+    transition: 0.5s;
+    border-bottom: 1px solid rgb(97, 156, 212);
+    /* transition: translateX(10px); */
+}
+h1{
+    text-align: center;
+}
+.fa-graduation-cap{
+    font-size: 30px !important;
+    color: rgb(255,202,0);
+}
+.card{
+    padding: 0px;
+    margin-bottom: 20px;
+}
+.image{
+    width: 400px !important;
+    margin-top: 120px;
+    border-radius: 50px 0 50px 0 !important;
+}
+.b{
+    border-radius: 50px 0 50px 0 !important;
+}
+.bb{
+    background-color: rgb(205,234,240);   
+    padding-top: 30px;
+}
+.bbb{
+    margin-bottom: -10px;
+    padding-top: 20px;
+}
+.bb .card-body{
+    background-color: rgb(205,234,240);
+    text-align: center;
+}
+.fa-cogs , .fa-users , .cap , .fa-user{
+    font-size: 50px !important;
+    margin-bottom: 5px;
+}
+.bb img{
+    margin-top: 100px;
+}
+.fa-cogs{
+    color: rgb(158,190,59);
+}
+.fa-users {
+    color: rgb(255,202,0);
+   
+}
+.cap {
+    color:  rgb(31,172,235);
+   
+}
+.fa-user{
+    color: rgb(84,181,188); 
+}
+.c{
+    margin-top: -20px !important;
+    margin-bottom: 0%;
+}
+.d{
+    background-color: rgb(205,234,240);   
+    padding-bottom: 20px;
+
+}
+.d img{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin-left: 20px;
+}
+.e{
+    background-image: url(images/image5.png);
+}
+.f{
+    padding-top: 20px;
+    background-color: rgb(250,250,250);
+}
+
+.g img{
+    text-align: center;
+    align-content: center;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 20px solid rgb(205,234,240) ;
+
+}
+.g{
+    text-align: center;
+    background-image: url(images/bg5.jpg);
+}
+.g .para{
+    width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.g h4{
+    margin-top: 20px;
+}
+
+.h img{
+    width: 100%;
+    margin: 10px;
+}
+.i{
+    margin-top: 100px !important;
+    background-color: rgb(240, 233, 233)
+}
+.i .col-md-4{
+    background-color: rgb(240, 233, 233);
+    padding: 20px;
+    padding-top: 30px;
+}
+.i  .btn-primary{
+    margin-left: 290px;
+}
+.j h1{
+    text-align: left;
+}
+.j{
+    margin-top: 100px !important;
+}
+.j .col{
+    color: white;
+    display: inline-block;
+    background-color: rgb(255,202,0);
+    border-radius: 50%;
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    margin: 10px;
+    margin-left: 20px;
+}
+.j h2{
+    margin-top: 20px;
+}
+.j img{
+    margin-top: 50px;
+}
+
+.k h3{
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: left;
+}
+.k{
+    margin-top: 100px !important;
+    color: white;
+    /* width: 100%; */
+    background:linear-gradient( rgba(4, 2, 10, 0.7) 100%, rgba(9, 7, 24, 0.7)100%), url(images/g14.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 100px 0;
+    /* padding-top: 200px; */
+}
+.k h1{
+    text-align: left;
+    font-size: 60px;
+    margin-left: 20px;
+}
+.k p{
+    margin-top: 5px;
+    font-size: 13px;
+}
+.l span{
+    margin: 20px 10px;
+
+}
+.l{
+    background-color: rgb(51,51,51);
+    color: rgb(209, 207, 207);
+    padding: 20px 0;
+    margin-top: -20px !important;
+}
+
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 100px;
+}
+.m .card{
+    transition: 0.5s;
+}
+.m .card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: 0.5s;
+    background-color: rgb(235, 233, 233);
+}
+
+.bb .card{
+    transition: 0.5s;
+}
+.bb .card:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: 0.7s;
+}
+
+.g img{
+    transition: 0.5s;
+}
+.g img:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition: 0.5s;
+}
+.g .name{
+    color:rgb(84,181,188) ;
+
+}
+.h img{
+    transition: 0.5s;
+    opacity: 0.8;
+}
+.h img:hover{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    transition-duration: 1s;
+    transform: scale(1.1,1.1);
+    opacity: 1;
+    
+}
+strong{
+    font-size: 40px;
+}
